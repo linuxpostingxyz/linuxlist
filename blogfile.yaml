@@ -1,0 +1,22 @@
+---
+blogs:
+  steamos-official:
+      name: SteamOS Official
+      birthday: 2024-05-19
+      url: steamos-official
+      prop: |
+        I'd like to preface this with "I'm cis."
+        ---
+        Anyways, steamos is a linux distro with a long history. It has made it's way
+        around the world on media PCs, and handheld consoles. It has quite the legacy.
+        Unlike other distros, I argue SteamOS is trans.  This is because up to version 3
+        , it used Debian as a base. After this, it used Arch. Now a basis is a quite
+        important piece of a distro's identity, and as such, switching it makes SteamOS
+        technically trans. Thank you for coming to my ted talk.
+      about: A Linux distro made by Valve.
+      icon: media/steamos.png
+      parents:
+        - arch-official
+        - debian-official
+      children: []
+...
