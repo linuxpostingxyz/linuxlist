@@ -1,7 +1,5 @@
-# linuxblr.github.io
-linux blog db
+# Linuxblr
 
-| folder | desc |
-| ------ | ---- |
-| `docs/` | documentation
-| `site/` | the actual website
+A database of the tumblr blogs that are about linux.
+
+Specifically the ones that call themselves `-official`.
