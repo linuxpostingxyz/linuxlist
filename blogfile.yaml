@@ -1,7 +1,7 @@
 ---
 blogs:
   steamos-official:
-      name: SteamOS Official
+      name: 'SteamOS (Official)'
       birthday: 2024-05-19
       url: steamos-official
       prop: |
@@ -14,9 +14,33 @@ blogs:
         important piece of a distro's identity, and as such, switching it makes SteamOS
         technically trans. Thank you for coming to my ted talk.
       about: A Linux distro made by Valve.
-      icon: media/steamos.png
+      icon: media/steamos.jpg
       parents:
         - arch-official
         - debian-official
       children: []
+  windows-7-official:
+    name: 'Windows 7 (Official)'
+    # TODO: birth year
+    birthday: 10-22
+    url: windows-7-official
+    prop: |
+      Honorary linux distro (canon) and retired Microsoft OS (fun fact: the blog was
+      originally started just because I wanted to goof on modern Windows. I hadn't even
+      known of the linux distro blogs at the time)
+    about: >-
+      The last good version of windows, with the best user interface and most
+      importantly no bloat! (At least, not as much as windows 11...)
+    icon: media/windows7-bi.png
+    parents: []
+    children: []
+  lenovo-real:
+    name: 'Lenovo (Real)'
+    birthday: 2024-06-22
+    url: lenovo-real
+    prop: |
+      Lenovo makes the thinkpad, the one and only Linux laptop. Remember to buy multiple
+      thinkpads. You don't want to have your thinkpad feeling all lonely!
+    about: A laptop company.
+    icon: media/lenovo.jpg
 ...
