@@ -1,5 +1,10 @@
-# Linuxblr
+# The guide to linux on tumblr.
 
-A database of the tumblr blogs that are about linux.
+A list of the tumblr blogs that are about linux.
 
 Specifically the ones that call themselves `-official`.
+
+List created by [@steamos-official](https://tumblr.com/steamos-official).
+
+List at [/list](/list).
+
