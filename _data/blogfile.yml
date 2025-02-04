@@ -15,9 +15,7 @@ blogs:
         technically trans. Thank you for coming to my ted talk.
       about: A Linux distro made by Valve.
       icon: media/steamos.jpg
-      parents:
-        - arch-official
-        - debian-official
+      parents: []
       children: []
   windows-7-official:
     name: 'Windows 7 (Official)'
@@ -43,4 +41,6 @@ blogs:
       thinkpads. You don't want to have your thinkpad feeling all lonely!
     about: A laptop company.
     icon: media/lenovo.jpg
+    parents: []
+    children: []
 ...

@@ -1,0 +1,7 @@
+defaults:
+  -
+    scope:
+      path: "blog"
+      type: "pages"
+    values:
+      layout: "blog"
