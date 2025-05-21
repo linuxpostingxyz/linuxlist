@@ -1,3 +1,4 @@
+<!-- cspell: ignore cisadmin unks fanctl distro smol artix chromeos devuan endeavouros garuda linuxmint offical microos nixos openmediavault packagemanager parrotos pisslinux popos porteusofficial puppylinux qubesos redstar retropieos rhel steamos tailsos tophatlinux uwuntu vanillaos wubuntu yiffos zorin blackarch ffmpegofficial glsl hyprland icecat inkscape krita lunati neofetch networkmanager steamvr systemdeez truenas vorapis wayfire xorg xmonad brainfuck gdscript malbolge metagolfscript puredata riskv catppuccin macchiato distrochooser iglunix gruvbox minix windowsxp greekie mipseb monaddecepticon robynthelinuxuser distros nios zipp -->
 
 Hi, I'm SteamOS, your cisadmin, and friendly introduction to Linux.
 
@@ -20,92 +21,185 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 ### The Distro Blogs
 
 - @alpine-official (UwU bc smol)
-- @arch-official (Horny and says "btw" a lot)
+- @arch-official
 - used by @arch-user
 - @artix-linux-official (Constantly says they're better than arch, while mainly replacing only the init)
-- @blackarch-official (Kail's Arch nemesis)
-- @centos-official (Past horny)
+- @centos-official
 - @chromeos-official (Your school says hi)
-- @debian-official (Horny and claims to be mentally stable)
+- @debian-official
 - @devuan-official (Artix but with Debian instead of arch)
-- @endeavouros-official (Just arch, but slightly less horny)
+- @endeavouros-official
 - @fedora-official (Linux with a hat)
+- @garuda-official
 - @gentoo-official (tougher arch)
+  - @evil-gentoo
+- @haiku-official
 - @hannah-montana-linux-official
-- (the best of both worlds (linux & mac))
 - @kali-official ("I'm a gamer")
 - @lfs-official (the hardest distro challenge)
 - @linuxmint-official (Linux for people with a life)
   - @mint-offical (someone didn't read the list)
 - @manjaro-official (Arch with less steps)
 - @microos-official (Smol suse?)
-- @nixos-official (Horny and thinks that your config should be a special snowflake of a file)
+- @nixos-official (thinks that your config should be a special snowflake of a file)
 - @openmediavault-official (Your Files)
 - @opensuse-official (Happy lil gecko)
+- @parrotos-official
+- @pinkos-official
+- @pisslinux-official (tell me this isnt a real distro pls)
 - @popos-official (Mint again? Oh, it has more updates.)
 - @porteusofficial (Portable, crazy, son of slackware)
 - @puppylinux-official (Awww, puppy!)
-- @raspbian-official (Enjoys pies, horny while doing nothing)
+- @q4os-tde-official
+- @qubesos-official
+- @raspbian-official
 - @redstar-official (control of information meets linux) (hard mode)
 - @retropieos-official (Raspbian's sister... I think?)
 - @rhel-official (a murderer and sellout)
-- @rocky-linux-official (Rehl, without the bad parts)
+- @rocky-linux-official (Rhel, without the bad parts)
 - @slackware-official (Slack? Where?!)
+- @solus-official (est. 2025-03-19)
 - @steamos-official (me, I help with gaming)
 - @tailsos-official (Fits in any bag like a puppy and will assist you with hiding from the fbi)
 - @tophatlinux-official (the best hat-based distro)
-- @ubuntu-official (Horny and thinks GNOME is good for some reason)
+- @ubuntu-official (thinks GNOME is good for some reason)
+  - @evil-ubuntu
 - @uwuntu-official (Ubuntu.... and the rest is in the name)
+- @vanillaos-official
 - @void-linux-official (Honestly, I don't even know.)
   - @void-linux-musl (great, now I'm more confused)
+- @wubuntu-officially-unofficial
+- @yiffos-official
 - @zorin-os-official (the only distro that starts with Z)
 
 ### The Software Blogs
 
 - @ansible-official (IT management tool) (I think?)
+- @cinnamon-official
 - @cool-retro-term-official (Terminal Emulator)
 - @cosmic-official (New Wayland Compositor)
+- @cups-official
+- @budgie-desktop (est. 2025-01-05)
 - @docker-official (containerization)
+- @dwm-official (formerly @blackarch-official)
 - @emacs-official (the ultimate editor)
-- @firefox-official (The browser, and a pretty good one too)
-  - @mozilla-firefox
+  - @emacs-evil-mode
+- @mozilla-firefox
+- @ffmpegofficial (everyone makes a 🫃 joke for some reason)
 - @fish-shell (Shell with built-in autocomplete but non POSIX)
-- @gnome-de-official ()
+- @flatpak-official
+- @gcc-official
+- @git-official
+- @glsl-official
+- @gnome-de-official
+  - @gnome-terminal-official
 - @gnu-imp-official (The GNU Image Manipulation Program)
 - @gnu-nano-official (Text for the weak)
+- @helix-editor (vim but backwards)
 - @hyprland-official (Wayland Compositor)
 - @i3-official (Window Manager)
-- @kde-official | Creator of everything begining with 'K'...
+- @icecat-official (firefox fork)
+- @inkscape-official (est. 2024-04-02)
+- @kde-official | Creator of everything beginning with 'K'...
   - @kde-plasma-official (best DE/Compositor)
+  - @krita-unofficial
+- @kitty-terminal-official (est. 2025-02-08)
 - @kubernetes-official (Docker's friend and Kate's hideout)
+- @learn-coq-official
+- @lunati-official (NOT Minecraft)
+- @neofetch-official
+- @networkmanager-official
+- @packagemanager-official
+- @powershell-official
+- @river-official
+- @steamvr-official (est. 2025-04-25)
 - @systemdeez (arguably systemd) (the startup daemon)
 - @neovim-official (your favorite text editor)
 - @sway-official (the tree blows in wayland to i3)
+- @sed-official (`s/[RrLl]/w/g`)
+- @truenas-official
+- @vi-official
+- @vim-official
+- @vlc-official
+- @vorapis-v3-official (youtube frontend?)
 - @vulcan-official (performance is a must)
+- @wayfire-official
+- @x11-official
+- @xfce4-official
+- @xfwm-official
+- @xorg-official
+- @xmonad-official
 
-### Website Blogs\*
+### Programming Languages
+
+- @assembly-official
+- @brainfuck-official
+- @c-official
+- @csharp-official
+- @css-official §
+- @gdscript-official
+- @haskell-official
+- @java-official
+- @javascript-official
+  - @official-js
+- @malbolge-official
+- @metagolfscript-official
+- @nios2-asm (I don't know if this belongs here, but whatever)
+- @perl-official
+- @powershell-official
+- @puredata-official
+- @python-official
+- @riskv-official
+- @rust-official
+  - @rust-analyzer-official
+
+### Other*
+
+#### themes
+
+- @catppuccin-frappe-official (est. 2025-03-25)
+- @catppuccin-latte-official
+- @catppuccin-macchiato-official
+- @catppuccin-mocha-official
+- @gruvbox-official
+
+#### mascots
+
+- @tux-official (See also: Gentoo Penguin)
+- @xenia-the-fox (The true mascot)
+
+#### idk
 
 - @distrochooser (Which distro should I pick?)
+- @i-suggest-linux (better than most i-suggest blogs)
 
-### Computers
+### Computers/Hardware
 
 - @framework-official (The apple of Linux laptops, except repairable)
+- @gpu-official (your GPU)
 - @lenovo-real (Makes people happy with think pads)
+- @vax-official
 
 ### Non Linux Blogs
 
-- @windows-7-official (The last good version of windows)
-- @windows11-official (aka DELETEME.TXT)
-- @multics-official (funny timeshare OS)
+- @iglunix-official § (affiliated with the project, too!)
+- @minix-official
 - @netbsd-official (the toaster is alive!)
+- @openbsd-official (est. 2025-02-17)
+- @windowsxp-official
+- @windows-7-official (The last good version of windows)
+- @windows10-official
+- @windows11-official
 - @zipp-os-official (another "better os" project)
 
 ### Non Official Blogs†
 
-- @robynthelinuxuser
+- @forever-stuck-on-java-8
 - @greekie-via-linux
-- @monaddecepticon (does a cool rice review thing)
 - @mipseb
+- @monaddecepticon (does a cool rice review thing)
+- @the-pink-hacker
+- @robynthelinuxuser
 
 ### Open Blog Opportunities
 
@@ -119,23 +213,123 @@ If I forgot you, let me know.\*†‡
 
 ## Footnotes
 
-\*Website blogs may or may not be added based on how fitting with the computer/Linux theme they are. That is to say, this list is long enough already.
+\*These blogs may or may not be added based on how fitting with the computer/Linux theme they are.
 
-†Non-official blogs are proven Linux users that act like distro blogs, yet are not. These will be added at my discretion, similar to the website blogs. I'm not bothering to add descriptions/notes here. Credit to @robynthelinuxuser for the idea.
+†Non-official blogs are proven Linux users that act like distro blogs, yet are not. These will be added at my discretion, similar to the website blogs. Credit to @robynthelinuxuser for the idea.
 
 ‡I can be contacted...
 
 1. By DM to the blog @steamos-offical on Tumblr
 2. By Email at not.steamos@proton.me
 
+§ Look, even though these could be better categorized, I don't care
+
 ## CHANGELOG.YML
 
 ```yaml
-version: 0x21
+version: 0x22
 changes:
-  - "Move to online"
-  - "Add contact section"
-  - "Make changelog into yaml"
+  - "Removed descriptions mentioning horny because I was tired of being reminded of it"
+  - "Moved Blackarch to DWM"
+  - "Removed @firefox-official due to the blog being deleted"
+  - "Removed the windows11 description because it was too mean"
+  - "Added a programming language section"
+  - "Changed the websites section to be a disorganized 'Other' section"
+  - "Changed the Computers section to include hardware as well"
+  - "Made the star footnote more vague and friendly"
+  - "Made the dagger footnote care less about what I do"
+  - "Added a selection sign footnote"
+  - "Added cspell heading"
+blogs_added:
+  - garuda-official
+  - haiku-official
+  - evil-gentoo
+  - parrotos-official
+  - pinkos-official
+  - pisslinux-official
+  - q4os-official
+  - qubesos-official
+  - solus-official
+  - evil-ubuntu
+  - vanillaos-official
+  - wubuntu-officially-unofficial
+  - yiffos-official
+  - cinnamon-official
+  - cups-official
+  - budgie-desktop
+  - emacs-evil-mode
+  - ffmpeg-official
+  - flatpak-official
+  - gcc-official
+  - git-official
+  - glsl-official
+  - gnome-de-official
+  - gnome-terminal-official
+  - helix-editor
+  - icecat-official
+  - inkscape-official
+  - krita-official
+  - kitty-terminal-official
+  - learn-coq-official
+  - lunati-official
+  - neofetch-official
+  - networkmanager-official
+  - packagemanager-official
+  - powershell-official
+  - river-official
+  - steamvr-official
+  - sed-official
+  - truenas-official
+  - vi-official
+  - vim-official
+  - vlc-official
+  - vorapis-v3-official
+  - wayfire-official
+  - x11-official
+  - xfce4-official 
+  - xfwm-official
+  - xorg-official
+  - xmonad-official
+  - assembly-official
+  - brainfuck-official
+  - c-official
+  - csharp-official
+  - css-official
+  - gdscript-official
+  - haskell-official
+  - java-official
+  - javascript-official
+  - official-js
+  - malbolge-official
+  - metagolfscript-official
+  - nios2-asm
+  - perl-official
+  - powershell-official
+  - puredata-official
+  - python-official
+  - riskv-official
+  - rust-official
+  - rust-analyzer
+  - catppuccin-frappe-official
+  - catppuccin-latte-official
+  - catppuccin-macchiato-official
+  - catppuccin-mocha-official
+  - gruvbox-official-official
+  - tux-official
+  - xenia-the-fox
+  - i-suggest-linux
+  - gpu-official
+  - vax-official
+  - iglunix-official
+  - minix-official
+  - netbsd-official
+  - openbsd-official
+  - windowsxp-official
+  - windows10-official
+  - forever-stuck-on-java-8
+  - mipseb
+  - the-pink-hacker
+  - robynthelinuxuser
 ```
 
 Changelogs after version 0x20 can be found in the history of the github repo.
