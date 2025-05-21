@@ -83,6 +83,7 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - [@docker-official](https://www.tumblr.com/docker-official) (containerization)
 - [@dwm-official](https://www.tumblr.com/dwm-official) (formerly @blackarch-official)
 - [@emacs-official](https://www.tumblr.com/emacs-official) (the ultimate editor)
+  - [@emacs-unofficial](https://www.tumblr.com/emacs-unofficial) (more active than -official)
   - [@emacs-evil-mode](https://www.tumblr.com/emacs-evil-mode)
 - [@mozilla-firefox](https://www.tumblr.com/mozilla-firefox)
 - [@ffmpegofficial](https://www.tumblr.com/ffmpegofficial) (everyone makes a 🫃 joke for some reason)
