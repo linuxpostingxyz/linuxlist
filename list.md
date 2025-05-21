@@ -59,7 +59,7 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - [@rocky-linux-official](https://www.tumblr.com/rocky-linux-official) (Rhel, without the bad parts)
 - [@slackware-official](https://www.tumblr.com/slackware-official) (Slack? Where?!)
 - [@solus-official](https://www.tumblr.com/solus-official) (est. 2025-03-19)
-- [@steamos-official](https://www.tumblr.com/steamos-official) (me, I help with gaming)
+- [@steamos-offical](https://www.tumblr.com/steamos-offical) (me, I help with gaming)
 - [@tailsos-official](https://www.tumblr.com/tailsos-official) (Fits in any bag like a puppy and will assist you with hiding from the fbi)
 - [@tophatlinux-official](https://www.tumblr.com/tophatlinux-official) (the best hat-based distro)
 - [@ubuntu-official](https://www.tumblr.com/ubuntu-official) (thinks GNOME is good for some reason)
