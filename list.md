@@ -36,6 +36,7 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - @haiku-official
 - @hannah-montana-linux-official
 - @kali-official ("I'm a gamer")
+- @layover-linux-official
 - @lfs-official (the hardest distro challenge)
 - @linuxmint-official (Linux for people with a life)
   - @mint-offical (someone didn't read the list)
@@ -59,7 +60,7 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - @rocky-linux-official (Rhel, without the bad parts)
 - @slackware-official (Slack? Where?!)
 - @solus-official (est. 2025-03-19)
-- @steamos-official (me, I help with gaming)
+- @steamos-offical (me, I help with gaming)
 - @tailsos-official (Fits in any bag like a puppy and will assist you with hiding from the fbi)
 - @tophatlinux-official (the best hat-based distro)
 - @ubuntu-official (thinks GNOME is good for some reason)
@@ -79,7 +80,7 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - @cool-retro-term-official (Terminal Emulator)
 - @cosmic-official (New Wayland Compositor)
 - @cups-official
-- @btrfs-official
+- @btrfs-unofficial
 - @docker-official (containerization)
 - @budgie-desktop (est. 2025-01-05)
 - @dwm-official (formerly @blackarch-official)
@@ -109,10 +110,10 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - @kubernetes-official (Docker's friend and Kate's hideout)
 - @learn-coq-official
 - @lunati-official (NOT Minecraft)
-- @neofetch-official
+- @neofetch-offical
 - @networkmanager-official
 - @niri-official (est. 2025-03-14)
-- @packagemanager-official
+- @packagemanager-offical
 - @powershell-official
 - @river-official
 - @steamvr-official (est. 2025-04-25)
@@ -234,19 +235,31 @@ If I forgot you, let me know.\*†‡
 ## CHANGELOG.YML
 
 ```yaml
-version: 0x23
+version: 0x24
 changes:
-  - "Fix alphabetization of @budgie-desktop"
-  - "Moved @xfce4-official to @xfce-official"
-  - "Changed the version to V23"
+  - "Finally moved @steamos-official to @steamos-offical"
+  - "Moved @btrfs-official to @btrfs-unofficial"
+  - "Moved @neofetch-official to @neofetch-offical"
+  - "Moved @packagemanager-official to @packagemanager-offical"
+  - "Changed the version to V24"
+  - "Removed blogs I could no longer find (Please contact me if you were wrongfully removed)"
 blogs_added:
-  - btrfs-official
-  - kitty-official
-  - niri-official
-  - wayland-official
-  - batch-official
-  - cplusplus-official
-  - rackmount-official-my-ass
+  - layover-linux-official
+blogs_removed:
+  - centos-official
+  - microos-official
+  - pisslinux-official
+  - porteusofficial
+  - tophatlinux-official
+  - ansible-official
+  - i3-official
+  - learn-coq-official
+  - lunati-official
+  - vulcan-official
+  - x11-official
+  - perl-official
+  - riskv-official
+  - openbsd-official
 ```
 
 Changelogs after version 0x20 can be found in the history of the github repo.
