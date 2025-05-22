@@ -28,6 +28,7 @@
     }
 
     function walk(node) {
+        if (!node) return;
         // Skip <a>, <script>, <style>, <textarea>
         if (node.nodeType === 1 && /^(A|SCRIPT|STYLE|TEXTAREA)$/i.test(node.tagName)) return;
         if (node.nodeType === 3 && usernameRegex.test(node.nodeValue)) {
