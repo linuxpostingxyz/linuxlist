@@ -37,7 +37,9 @@ function linkifyUsernames(root) {
             processTextNode(node);
             return;
         }
-        for (let child = node.firstChild; child; child = child.nextSibling) {
+        // Use a static array to avoid issues if the DOM changes during traversal
+        const children = Array.from(node.childNodes);
+        for (const child of children) {
             walk(child);
         }
     }
