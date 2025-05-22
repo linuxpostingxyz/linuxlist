@@ -1,7 +1,7 @@
 // cspell: ignore linkify
 
 function linkifyUsernames(root) {
-    const usernameRegex = /@([a-zA-Z0-9\-]+)/g;
+    const usernameRegex = /@([a-zA-Z0-9\-]{1,32})/g;
 
     function processTextNode(node) {
         const text = node.nodeValue;
