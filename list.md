@@ -228,7 +228,7 @@ If I forgot you, let me know.\*†‡
 ‡I can be contacted...
 
 1. By DM to the blog @steamos-offical on Tumblr
-2. By Email at not.steamos@proton.me
+2. By Email at [not.steamos@proton.me](mailto:not.steamos@proton.me)
 
 § Look, even though these could be better categorized, I don't care
 
