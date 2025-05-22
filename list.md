@@ -79,8 +79,9 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - @cool-retro-term-official (Terminal Emulator)
 - @cosmic-official (New Wayland Compositor)
 - @cups-official
-- @budgie-desktop (est. 2025-01-05)
+- @btrfs-official
 - @docker-official (containerization)
+- @budgie-desktop (est. 2025-01-05)
 - @dwm-official (formerly @blackarch-official)
 - @emacs-official (the ultimate editor)
   - @emacs-evil-mode
@@ -104,11 +105,13 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
   - @kde-plasma-official (best DE/Compositor)
   - @krita-unofficial
 - @kitty-terminal-official (est. 2025-02-08)
+  - @kitty-official
 - @kubernetes-official (Docker's friend and Kate's hideout)
 - @learn-coq-official
 - @lunati-official (NOT Minecraft)
 - @neofetch-official
 - @networkmanager-official
+- @niri-official (est. 2025-03-14)
 - @packagemanager-official
 - @powershell-official
 - @river-official
@@ -123,9 +126,10 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - @vlc-official
 - @vorapis-v3-official (youtube frontend?)
 - @vulcan-official (performance is a must)
+- @wayland-official
 - @wayfire-official
 - @x11-official
-- @xfce4-official
+- @xfce-official
 - @xfwm-official
 - @xorg-official
 - @xmonad-official
@@ -133,8 +137,10 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 ### Programming Languages
 
 - @assembly-official
+- @batch-official
 - @brainfuck-official
 - @c-official
+- @cplusplus-official
 - @csharp-official
 - @css-official §
 - @gdscript-official
@@ -178,6 +184,7 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - @framework-official (The apple of Linux laptops, except repairable)
 - @gpu-official (your GPU)
 - @lenovo-real (Makes people happy with think pads)
+- @rackmount-official-my-ass
 - @vax-official
 
 ### Non Linux Blogs
@@ -227,109 +234,19 @@ If I forgot you, let me know.\*†‡
 ## CHANGELOG.YML
 
 ```yaml
-version: 0x22
+version: 0x23
 changes:
-  - "Removed descriptions mentioning horny because I was tired of being reminded of it"
-  - "Moved Blackarch to DWM"
-  - "Removed @firefox-official due to the blog being deleted"
-  - "Removed the windows11 description because it was too mean"
-  - "Added a programming language section"
-  - "Changed the websites section to be a disorganized 'Other' section"
-  - "Changed the Computers section to include hardware as well"
-  - "Made the star footnote more vague and friendly"
-  - "Made the dagger footnote care less about what I do"
-  - "Added a selection sign footnote"
-  - "Added cspell heading"
+  - "Fix alphabetization of @budgie-desktop"
+  - "Moved @xfce4-official to @xfce-official"
+  - "Changed the version to V23"
 blogs_added:
-  - garuda-official
-  - haiku-official
-  - evil-gentoo
-  - parrotos-official
-  - pinkos-official
-  - pisslinux-official
-  - q4os-official
-  - qubesos-official
-  - solus-official
-  - evil-ubuntu
-  - vanillaos-official
-  - wubuntu-officially-unofficial
-  - yiffos-official
-  - cinnamon-official
-  - cups-official
-  - budgie-desktop
-  - emacs-evil-mode
-  - ffmpeg-official
-  - flatpak-official
-  - gcc-official
-  - git-official
-  - glsl-official
-  - gnome-de-official
-  - gnome-terminal-official
-  - helix-editor
-  - icecat-official
-  - inkscape-official
-  - krita-official
-  - kitty-terminal-official
-  - learn-coq-official
-  - lunati-official
-  - neofetch-official
-  - networkmanager-official
-  - packagemanager-official
-  - powershell-official
-  - river-official
-  - steamvr-official
-  - sed-official
-  - truenas-official
-  - vi-official
-  - vim-official
-  - vlc-official
-  - vorapis-v3-official
-  - wayfire-official
-  - x11-official
-  - xfce4-official 
-  - xfwm-official
-  - xorg-official
-  - xmonad-official
-  - assembly-official
-  - brainfuck-official
-  - c-official
-  - csharp-official
-  - css-official
-  - gdscript-official
-  - haskell-official
-  - java-official
-  - javascript-official
-  - official-js
-  - malbolge-official
-  - metagolfscript-official
-  - nios2-asm
-  - perl-official
-  - powershell-official
-  - puredata-official
-  - python-official
-  - riskv-official
-  - rust-official
-  - rust-analyzer
-  - catppuccin-frappe-official
-  - catppuccin-latte-official
-  - catppuccin-macchiato-official
-  - catppuccin-mocha-official
-  - gruvbox-official-official
-  - tux-official
-  - xenia-the-fox
-  - i-suggest-linux
-  - gpu-official
-  - vax-official
-  - iglunix-official
-  - minix-official
-  - netbsd-official
-  - openbsd-official
-  - windowsxp-official
-  - windows10-official
-  - forever-stuck-on-java-8
-  - mipseb
-  - the-pink-hacker
-  - robynthelinuxuser
+  - btrfs-official
+  - kitty-official
+  - niri-official
+  - wayland-official
+  - batch-official
+  - cplusplus-official
+  - rackmount-official-my-ass
 ```
 
 Changelogs after version 0x20 can be found in the history of the github repo.
