@@ -4,7 +4,7 @@ A list of the tumblr blogs that are about linux.
 
 Specifically the ones that call themselves `-official`.
 
-List created by [@steamos-official](https://tumblr.com/steamos-official).
+List created by @steamos-official.
 
 List at [/list](/list).
 
