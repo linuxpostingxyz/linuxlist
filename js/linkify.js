@@ -1,4 +1,6 @@
-(function linkifyUsernames(root = document.body) {
+// cspell: ignore linkify
+
+function linkifyUsernames(root) {
     const usernameRegex = /@([a-zA-Z0-9\-]+)/g;
 
     function processTextNode(node) {
@@ -41,4 +43,8 @@
     }
 
     walk(root);
-})();
+}
+
+addEventListener('DOMContentLoaded', () => {
+    linkifyUsernames(document.body);
+});
