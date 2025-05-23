@@ -87,6 +87,7 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - @emacs-official (the ultimate editor)
   - @emacs-evil-mode
 - @mozilla-firefox
+- @mutter-official
 - @ffmpegofficial (everyone makes a 🫃 joke for some reason)
 - @fish-shell (Shell with built-in autocomplete but non POSIX)
 - @flatpak-official
@@ -126,7 +127,7 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - @vim-official
 - @vlc-official
 - @vorapis-v3-official (youtube frontend?)
-- @vulcan-official (performance is a must)
+- @vulkan-official (performance is a must)
 - @wayland-official
 - @wayfire-official
 - @x11-official
@@ -179,6 +180,7 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 
 - @distrochooser (Which distro should I pick?)
 - @i-suggest-linux (better than most i-suggest blogs)
+- @linux-opinions (est. 2025-05-22)
 
 ### Computers/Hardware
 
@@ -190,10 +192,12 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 
 ### Non Linux Blogs
 
+- @freebsd-official
 - @iglunix-official § (affiliated with the project, too!)
 - @minix-official
 - @netbsd-official (the toaster is alive!)
 - @openbsd-official (est. 2025-02-17)
+- @tigerbrew-official (you choose what macos software you get)
 - @windowsxp-official
 - @windows-7-official (The last good version of windows)
 - @windows10-official
@@ -235,31 +239,13 @@ If I forgot you, let me know.\*†‡
 ## CHANGELOG.YML
 
 ```yaml
-version: 0x24
+version: 0x25
 changes:
-  - "Finally moved @steamos-official to @steamos-offical"
-  - "Moved @btrfs-official to @btrfs-unofficial"
-  - "Moved @neofetch-official to @neofetch-offical"
-  - "Moved @packagemanager-official to @packagemanager-offical"
-  - "Changed the version to V24"
-  - "Removed blogs I could no longer find (Please contact me if you were wrongfully removed)"
+  - "moved @vulcan-official to @vulkan-official"
 blogs_added:
-  - layover-linux-official
-blogs_removed:
-  - centos-official
-  - microos-official
-  - pisslinux-official
-  - porteusofficial
-  - tophatlinux-official
-  - ansible-official
-  - i3-official
-  - learn-coq-official
-  - lunati-official
-  - vulcan-official
-  - x11-official
-  - perl-official
-  - riskv-official
-  - openbsd-official
+  - mutter-official
+  - freebsd-official
+  - tigerbrew-official
 ```
 
 Changelogs after version 0x20 can be found in the history of the github repo.
