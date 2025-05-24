@@ -1,0 +1,25 @@
+/* ==UserStyle==
+@name           Dracula on linuxblr.github.io
+@namespace      github.com/linuxblr/linuxblr.github.io
+@version        1.0.0
+@description    Dracula on linuxblr.github.io
+@author         Ducksel
+==/UserStyle== */
+
+/* Because the out-of-box experience looks awful. */
+
+@-moz-document domain("linuxblr.github.io") {
+	body {
+		color: #F8F8F2;
+		background-color: #282A36;
+	}
+	a {
+		color: #8BE9FD;
+	}
+	a:visited {
+		color: #BD93F9;
+	}
+	hr, h1, h2, h3, h4, h5, h6 {
+		color: #FF79C6;
+	}
+}
