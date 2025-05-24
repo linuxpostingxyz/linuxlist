@@ -21,12 +21,15 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 ### The Distro Blogs
 
 - @alpine-official (UwU bc smol)
+- @android-official
+  - @androidtv-official
 - @arch-official
 - used by @arch-user
 - @artix-linux-official (Constantly says they're better than arch, while mainly replacing only the init)
 - @centos-official
 - @chromeos-official (Your school says hi)
 - @debian-official
+  - @debian-sid
 - @devuan-official (Artix but with Debian instead of arch)
 - @endeavouros-official
 - @fedora-official (Linux with a hat)
@@ -64,7 +67,6 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - @tailsos-official (Fits in any bag like a puppy and will assist you with hiding from the fbi)
 - @tophatlinux-official (the best hat-based distro)
 - @ubuntu-official (thinks GNOME is good for some reason)
-  - @evil-ubuntu
 - @uwuntu-official (Ubuntu.... and the rest is in the name)
 - @vanillaos-official
 - @void-linux-official (Honestly, I don't even know.)
@@ -76,11 +78,13 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 ### The Software Blogs
 
 - @ansible-official (IT management tool) (I think?)
+- @arcbrowser-official
+- @btrfs-unofficial
 - @cinnamon-official
 - @cool-retro-term-official (Terminal Emulator)
 - @cosmic-official (New Wayland Compositor)
 - @cups-official
-- @btrfs-unofficial
+- @definitely-zen-browser (Privacy-focused web browser built on Firefox)
 - @docker-official (containerization)
 - @budgie-desktop (est. 2025-01-05)
 - @dwm-official (formerly @blackarch-official)
@@ -118,7 +122,8 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - @powershell-official
 - @river-official
 - @steamvr-official (est. 2025-04-25)
-- @systemdeez (arguably systemd) (the startup daemon)
+- @systemd-official (the startup daemon)
+  - @systemdeez (arguably systemd)
 - @neovim-official (your favorite text editor)
 - @sway-official (the tree blows in wayland to i3)
 - @sed-official (`s/[RrLl]/w/g`)
@@ -159,7 +164,6 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - @python-official
 - @riskv-official
 - @rust-official
-  - @rust-analyzer-official
 
 ### Other*
 
@@ -210,6 +214,7 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - @greekie-via-linux
 - @mipseb
 - @monaddecepticon (does a cool rice review thing)
+- @the-mynah-bird
 - @the-pink-hacker
 - @robynthelinuxuser
 
@@ -239,13 +244,19 @@ If I forgot you, let me know.\*†‡
 ## CHANGELOG.YML
 
 ```yaml
-version: 0x25
+version: 0x26
 changes:
-  - "moved @vulcan-official to @vulkan-official"
+  - "Move @evil-ubuntu to @the-mynah-bird"
+  - "Fix alphabetization of @btrfs-unofficial"
+  - "Removed @rust-analyzer-official because I can't find the blog anymore"
+  - "Change version to V26"
 blogs_added:
-  - mutter-official
-  - freebsd-official
-  - tigerbrew-official
+  - androidtv-official
+  - android-official
+  - debian-sid
+  - arcbrowser-official
+  - definitely-zen-browser
+  - systemd-official
 ```
 
 Changelogs after version 0x20 can be found in the history of the github repo.
