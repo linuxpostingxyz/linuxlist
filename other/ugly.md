@@ -13,7 +13,7 @@ If it's ugly, so what, who cares.
 
 You can view this site in dracula theme with the stylus extension.
 
-The `.user.css` file is behind [this link](/other/dracula.user.css).
+The `.user.css` file is behind [this link](/other/dracula.user.css){:target="_blank"}.
 
 ## Option 3: Be the cool
 

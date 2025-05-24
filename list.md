@@ -232,7 +232,7 @@ If I forgot you, let me know.\*†‡
 ‡I can be contacted...
 
 1. By DM to the blog @steamos-offical on Tumblr
-2. By Email at [not.steamos@proton.me](mailto:not.steamos@proton.me)
+2. By Email at [not.steamos@proton.me](mailto:not.steamos@proton.me){:target="_blank"}
 
 § Look, even though these could be better categorized, I don't care
 
@@ -249,4 +249,4 @@ blogs_added:
 ```
 
 Changelogs after version 0x20 can be found in the history of the github repo.
-Changelogs version 0x20 and before are hidden in [a tumblr post]( https://www.tumblr.com/steamos-official-hasmoved/753380968429142016/the-guide-to-linux-on-tumblr).
+Changelogs version 0x20 and before are hidden in [a tumblr post]( https://www.tumblr.com/steamos-official-hasmoved/753380968429142016/the-guide-to-linux-on-tumblr){:target="_blank"}.
