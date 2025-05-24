@@ -249,5 +249,4 @@ blogs_added:
 ```
 
 Changelogs after version 0x20 can be found in the history of the github repo.
-Changelogs version 0x20 and before are hidden in [a tumblr post](https://www.tumblr.com/steamos-official/753380968429142016/the-guide-to-linux-on-tumblr).
-
+Changelogs version 0x20 and before are hidden in [a tumblr post]( https://www.tumblr.com/steamos-official-hasmoved/753380968429142016/the-guide-to-linux-on-tumblr).
