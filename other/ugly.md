@@ -11,11 +11,14 @@ If it's ugly, so what, who cares.
 
 ## Option 2: Use inbuilt tools
 
-You can view this site in dracula theme with the stylus extension.
+You can view this site in a couple themes with the stylus extension.
 
 Stylus can be downloaded for both [chromium](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) and [firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) based browsers.
 
-The `.user.css` file is behind [this link](/other/dracula.user.css){:target="_blank"}.
+The `.user.css` files are found below:
+
+- [Dracula](/other/dracula.user.css){:target="_blank"}.
+- [Starry Night](/other/starrynight.user.css){:target="_blank"}.
 
 ## Option 3: Be the cool
 
