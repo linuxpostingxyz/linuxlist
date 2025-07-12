@@ -17,11 +17,10 @@ Stylus can be downloaded for both [chromium](https://chromewebstore.google.com/d
 
 The `.user.css` files are found below:
 
+- [Catppuccin](/other/catppuccin.user.less){:target="_blank"}.
 - [Dracula](/other/dracula.user.css){:target="_blank"}.
 - [Starry Night](/other/starrynight.user.css){:target="_blank"}.
 
 ## Option 3: Be the cool
 
 You can write your own user style and contribute it to the repo!
-
-(*Please,* I want the Catppuccin siblings to enjoy this site in their colors.)
