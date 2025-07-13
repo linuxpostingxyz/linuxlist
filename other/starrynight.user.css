@@ -8,7 +8,7 @@
 
 /* Named after (and based on) the color scheme I use on my own PC, with some extra bits for flavor. */
 
-@-moz-document domain("linuxblr.github.io") {
+@-moz-document domain("linuxblr.github.io"), domain("list.linuxposting.xyz") {
 html {
     height: auto;
     min-height: 100%;
