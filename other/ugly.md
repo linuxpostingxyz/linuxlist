@@ -1,3 +1,6 @@
+---
+title: This site is ugly.
+---
 
 # This site is ugly.
 

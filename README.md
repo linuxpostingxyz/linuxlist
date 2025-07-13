@@ -1,3 +1,8 @@
+---
+title: Linuxblr
+layout: index
+---
+
 <!-- cspell: ignore offical steamos -->
 
 # The guide to linux on tumblr.
@@ -9,4 +14,3 @@ Specifically the ones that call themselves `-official`.
 List created by @steamos-offical.
 
 List at [/list](/list).
-

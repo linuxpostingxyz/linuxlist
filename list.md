@@ -1,3 +1,7 @@
+---
+title: Linuxblr List
+---
+
 <!-- cspell: ignore cisadmin unks fanctl distro smol artix chromeos devuan endeavouros garuda linuxmint offical microos nixos openmediavault packagemanager parrotos pisslinux popos porteusofficial puppylinux qubesos redstar retropieos rhel steamos tailsos tophatlinux uwuntu vanillaos wubuntu yiffos zorin blackarch ffmpegofficial glsl hyprland icecat inkscape krita lunati neofetch networkmanager steamvr systemdeez truenas vorapis wayfire xorg xmonad brainfuck gdscript malbolge metagolfscript puredata riskv catppuccin macchiato distrochooser iglunix gruvbox minix windowsxp greekie mipseb monaddecepticon robynthelinuxuser distros nios zipp androidtv arcbrowser btrfs niri cplusplus rackmount tigerbrew -->
 
 Hi, I'm SteamOS, your cisadmin, and friendly introduction to Linux.
