@@ -8,7 +8,7 @@
 
 /* Because the out-of-box experience looks awful. */
 
-@-moz-document domain("linuxblr.github.io") {
+@-moz-document domain("linuxblr.github.io"), domain("list.linuxposting.xyz") {
 	body {
 		color: #F8F8F2;
 		background-color: #282A36;
