@@ -1,23 +1,33 @@
 /* ==UserStyle==
  @name           Starry Night (Linuxblr)
  @namespace      github.com/linuxblr/linuxblr.github.io
- @version        1.0.1
+ @version        1.1.0
  @description    A version of Starry Night for linuxblr.github.io
  @author         autumnvleaves
  ==/UserStyle== */
 
-/* Named after (and based on) the color scheme I use on my own PC, with some extra bits for flavor.*/
+/* Named after (and based on) the color scheme I use on my own PC, with some extra bits for flavor. */
 
 @-moz-document domain("linuxblr.github.io") {
-    body {
+html {
+    height: auto;
+    min-height: 100%;
+    background-image: linear-gradient(#101728, #00040d);
+
+}
+body {
         color: #fff4b8;
-        background-color: #101728;
+        background-color: #10172800;
     }
     a {
-        color: #749bfb;
+        color: #afc5f9;
     }
     a:visited {
         color: #e49629;
+    }
+    hr {
+        color: #fff4b8;
+
     }
     h1 {
         color: #fff4b8;
@@ -29,17 +39,28 @@
         width: max-content;
         text-align: left;
         right: auto;
+        text-shadow: 2px 2px #756c3c;
     }
     h2 {
         color: #fff4b8;
         border-bottom-style: solid;
         width: max-content;
+        text-shadow: 2px 2px #756c3c;
     }
-    hr,
-    h3,
+    h3 {
+        color: #fff4b8;
+        width: max-content;
+        text-shadow: 2px 2px #756c3c;
+    }
     h4,
     h5,
-    h6 {
+    h6,
+    p,
+    ul{
         color: #fff4b8;
+    }
+    ul {
+        padding-left: 2pc;
+
     }
 }
