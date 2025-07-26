@@ -40,7 +40,6 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - @garuda-official
 - @gentoo-official (tougher arch)
   - @evil-gentoo
-- @haiku-official
 - @hannah-montana-linux-official
 - @kali-official ("I'm a gamer")
 - @layover-linux-official
@@ -58,7 +57,10 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - @popos-official (Mint again? Oh, it has more updates.)
 - @porteusofficial (Portable, crazy, son of slackware)
 - @puppylinux-official (Awww, puppy!)
+  - @puppylinux-unofficial
+  - @puppy-linux-official (est. 2024-09-25)
 - @q4os-tde-official
+  - @q4os-kde-official
 - @qubesos-official
 - @raspbian-official
 - @redstar-official (control of information meets linux) (hard mode)
@@ -67,10 +69,11 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - @rocky-linux-official (Rhel, without the bad parts)
 - @slackware-official (Slack? Where?!)
 - @solus-official (est. 2025-03-19)
-- @steamos-offical (me, I help with gaming)
+- @steamos3-offical (me, I help with gaming)
 - @tailsos-official (Fits in any bag like a puppy and will assist you with hiding from the fbi)
 - @tophatlinux-official (the best hat-based distro)
 - @ubuntu-official (thinks GNOME is good for some reason)
+  - @ubuntucinnamon-official (est. 2025-05-31)
 - @uwuntu-official (Ubuntu.... and the rest is in the name)
 - @vanillaos-official
 - @void-linux-official (Honestly, I don't even know.)
@@ -81,8 +84,12 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 
 ### The Software Blogs
 
-- @ansible-official (IT management tool) (I think?)
-- @arcbrowser-official
+Remind me to sort these later.
+
+- @alacritty-official (est. 2025-05-27)
+- @ansible-but-not-official (IT management tool) (I think?)
+- @apt-official (est. 2025-03-29)
+- @arcbrowser-offical
 - @btrfs-unofficial
 - @cinnamon-official
 - @cool-retro-term-official (Terminal Emulator)
@@ -92,20 +99,24 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - @docker-official (containerization)
 - @budgie-desktop (est. 2025-01-05)
 - @dwm-official (formerly @blackarch-official)
+- @ed-official
 - @emacs-official (the ultimate editor)
   - @emacs-evil-mode
 - @mozilla-firefox
 - @mutter-official
 - @ffmpegofficial (everyone makes a 🫃 joke for some reason)
 - @fish-shell (Shell with built-in autocomplete but non POSIX)
+- @flat-assembler
 - @flatpak-official
+- @floorp-official
 - @gcc-official
 - @git-official
-- @glsl-official
 - @gnome-de-official
   - @gnome-terminal-official
+  - @gnome-2048-official (est. 2025-05-16)
 - @gnu-imp-official (The GNU Image Manipulation Program)
 - @gnu-nano-official (Text for the weak)
+- @grep-official
 - @helix-editor (vim but backwards)
 - @hyprland-official (Wayland Compositor)
 - @i3-official (Window Manager)
@@ -118,12 +129,17 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
   - @kitty-official
 - @kubernetes-official (Docker's friend and Kate's hideout)
 - @learn-coq-official
+- @librewolf-unofficial
 - @lunati-official (NOT Minecraft)
 - @neofetch-offical
+- @nautilus-official
 - @networkmanager-official
 - @niri-official (est. 2025-03-14)
 - @packagemanager-offical
+- @podman-official
 - @powershell-official
+- @qemu-official
+- @regexkind (doesn't post about linux much, but I'm putting it here until we get regex-official)
 - @river-official
 - @steamvr-official (est. 2025-04-25)
 - @systemd-official (the startup daemon)
@@ -139,6 +155,7 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - @vulkan-official (performance is a must)
 - @wayland-official
 - @wayfire-official
+- @winehq-official
 - @x11-official
 - @xfce-official
 - @xfwm-official
@@ -168,6 +185,10 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - @python-official
 - @riskv-official
 - @rust-official
+  - @rustup-official
+- @vala-official
+- @verilog-official
+- @vhdl-official
 
 ### Other*
 
@@ -194,23 +215,30 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 
 - @framework-official (The apple of Linux laptops, except repairable)
 - @gpu-official (your GPU)
+  - @spirv-official (formerly @glsl-official)
 - @lenovo-real (Makes people happy with think pads)
 - @rackmount-official-my-ass
+- @ram-stick (inactive I think)
+  - @zram-official (technically software but I think it should be here)
 - @vax-official
 
 ### Non Linux Blogs
 
 - @freebsd-official
+- @haiku-official
 - @iglunix-official § (affiliated with the project, too!)
 - @minix-official
 - @netbsd-official (the toaster is alive!)
 - @openbsd-official (est. 2025-02-17)
+- @sunos-official (est. 2024-10-16)
 - @tigerbrew-official (you choose what macos software you get)
 - @windowsxp-official
 - @windows-7-official (The last good version of windows)
 - @windows10-official
 - @windows11-official
+- @xnu-official
 - @zipp-os-official (another "better os" project)
+- @zos-official (est. 2025-07-24)
 
 ### Non Official Blogs†
 
@@ -240,7 +268,7 @@ If I forgot you, let me know.\*†‡
 
 ‡I can be contacted...
 
-1. By DM to the blog @steamos-offical on Tumblr
+1. By DM to the blog @steamos3-offical on Tumblr
 2. By Email at [not.steamos@proton.me](mailto:not.steamos@proton.me){:target="_blank"}
 
 § Look, even though these could be better categorized, I don't care
@@ -248,20 +276,44 @@ If I forgot you, let me know.\*†‡
 ## CHANGELOG.YML
 
 ```yaml
-version: 0x26
+version: 0x27
 changes:
-  - "Move @evil-ubuntu to @the-mynah-bird"
-  - "Fix alphabetization of @btrfs-unofficial"
-  - "Removed @rust-analyzer-official because I can't find the blog anymore"
-  - "Change version to V26"
+  - "Move @haiku-official to the non linux section"
+  - "Replace links to @steamos-official with ones to @steamos3-official"
+  - "Change @ansible-official to @ansible-but-not-official"
+  - "Correct @arcbrowser-official to @arcbrowser-offical"
+  - "Change version to V27"
 blogs_added:
-  - androidtv-official
-  - android-official
-  - debian-sid
-  - arcbrowser-official
-  - definitely-zen-browser
-  - systemd-official
+  - puppylinux-unofficial
+  - puppy-linux-official
+  - q4os-kde-official
+  - ubuntucinnamon-official
+  - alacritty-official
+  - ed-official
+  - flat-assembler
+  - floorp-official
+  - gnome-2048-official
+  - grep-official
+  - librewolf-unofficial
+  - nautilus-official
+  - podman-official
+  - qemu-official
+  - regexkind
+  - winehq-official
+  - rustup-official
+  - vala-official
+  - verilog-official
+  - vhdl-official
+  - spriv-official
+  - ram-stick
+  - zram-official
+  - haiku-official
+  - sunos-official
+  - xnu-official
+  - zos-official
+blogs_removed:
+  - glsl-official
 ```
 
 Changelogs after version 0x20 can be found in the history of the github repo.
-Changelogs version 0x20 and before are hidden in [a tumblr post]( https://www.tumblr.com/steamos-official-hasmoved/753380968429142016/the-guide-to-linux-on-tumblr){:target="_blank"}.
+Changelogs version 0x20 and before are hidden in [a tumblr post]( https://www.tumblr.com/steamos-official-hasmoved/753380968429142016/the-guide-to-linux-on-tumblr ){:target="_blank"}.
