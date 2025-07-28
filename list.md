@@ -82,22 +82,6 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 - @yiffos-official
 - @zorin-os-official (the only distro that starts with Z)
 
-### DE/WM Blogs
-- @budgie-desktop (est. 2025-01-05)
-- @cinnamon-official
-- @cosmic-official (New Wayland Compositor)
-- @dwm-official (formerly @blackarch-official)
-- @hyprland-official (Wayland Compositor)
-- @i3-official (Window Manager)
-- @kde-plasma-official (best DE/Compositor)
-- @mutter-official
-- @niri-official (est. 2025-03-14)
-- @sway-official (the tree blows in wayland to i3)
-- @wayfire-official (~~skirt~~ window go spinny)
-- @xfce-official
-- @xfwm-official
-- @xmonad-official
-
 ### The Software Blogs
 
 Remind me to sort these later.
@@ -163,6 +147,22 @@ Remind me to sort these later.
 - @winehq-official
 - @x11-official
 - @xorg-official
+
+#### DE/WM Blogs
+- @budgie-desktop (est. 2025-01-05)
+- @cinnamon-official
+- @cosmic-official (New Wayland Compositor)
+- @dwm-official (formerly @blackarch-official)
+- @hyprland-official (Wayland Compositor)
+- @i3-official (Window Manager)
+- @kde-plasma-official (best DE/Compositor)
+- @mutter-official
+- @niri-official (est. 2025-03-14)
+- @sway-official (the tree blows in wayland to i3)
+- @wayfire-official (~~skirt~~ window go spinny)
+- @xfce-official
+- @xfwm-official
+- @xmonad-official
 
 ### Programming Languages
 
