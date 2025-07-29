@@ -91,19 +91,14 @@ Remind me to sort these later.
 - @apt-official (est. 2025-03-29)
 - @arcbrowser-offical
 - @btrfs-unofficial
-- @cinnamon-official
 - @cool-retro-term-official (Terminal Emulator)
-- @cosmic-official (New Wayland Compositor)
 - @cups-official
 - @definitely-zen-browser (Privacy-focused web browser built on Firefox)
 - @docker-official (containerization)
-- @budgie-desktop (est. 2025-01-05)
-- @dwm-official (formerly @blackarch-official)
 - @ed-official
 - @emacs-official (the ultimate editor)
   - @emacs-evil-mode
 - @mozilla-firefox
-- @mutter-official
 - @ffmpegofficial (everyone makes a 🫃 joke for some reason)
 - @fish-shell (Shell with built-in autocomplete but non POSIX)
 - @flat-assembler
@@ -118,12 +113,9 @@ Remind me to sort these later.
 - @gnu-nano-official (Text for the weak)
 - @grep-official
 - @helix-editor (vim but backwards)
-- @hyprland-official (Wayland Compositor)
-- @i3-official (Window Manager)
 - @icecat-official (firefox fork)
 - @inkscape-official (est. 2024-04-02)
 - @kde-official | Creator of everything beginning with 'K'...
-  - @kde-plasma-official (best DE/Compositor)
   - @krita-unofficial
 - @kitty-terminal-official (est. 2025-02-08)
   - @kitty-official
@@ -134,7 +126,6 @@ Remind me to sort these later.
 - @neofetch-offical
 - @nautilus-official
 - @networkmanager-official
-- @niri-official (est. 2025-03-14)
 - @packagemanager-offical
 - @podman-official
 - @powershell-official
@@ -145,7 +136,6 @@ Remind me to sort these later.
 - @systemd-official (the startup daemon)
   - @systemdeez (arguably systemd)
 - @neovim-official (your favorite text editor)
-- @sway-official (the tree blows in wayland to i3)
 - @sed-official (`s/[RrLl]/w/g`)
 - @truenas-official
 - @vi-official
@@ -154,12 +144,24 @@ Remind me to sort these later.
 - @vorapis-v3-official (youtube frontend?)
 - @vulkan-official (performance is a must)
 - @wayland-official
-- @wayfire-official
 - @winehq-official
 - @x11-official
+- @xorg-official
+
+#### DE/WM Blogs
+- @budgie-desktop (est. 2025-01-05)
+- @cinnamon-official
+- @cosmic-official (New Wayland Compositor)
+- @dwm-official (formerly @blackarch-official)
+- @hyprland-official (Wayland Compositor)
+- @i3-official (Window Manager)
+- @kde-plasma-official (best DE/Compositor)
+- @mutter-official
+- @niri-official (est. 2025-03-14)
+- @sway-official (the tree blows in wayland to i3)
+- @wayfire-official (~~skirt~~ window go spinny)
 - @xfce-official
 - @xfwm-official
-- @xorg-official
 - @xmonad-official
 
 ### Programming Languages
