@@ -1,0 +1,107 @@
+# Anyat Configuration File
+# This file defines the configuration for the Anyat plugin, including linkers and settings.
+
+# If false, Anyat will do nothing.
+enabled: true
+
+settings:
+  # Weather to process pages
+  process_pages: true
+  # Weather to process posts
+  process_posts: true
+  # Weather to process collections
+  # If false, Anyat will not process collections.
+  # If true, Anyat will process collections.
+  # If you wish to select only some collections,
+  #  set this to a list of the names of the collections
+  #  you want to process.
+  process_collections: true
+
+# Default linker to use if no platform is specified.
+# This allows @'s of the format [platform]@username[@domain], allowing
+#  implicit platform.
+# For example, if default_platform was twitter, then @user would be
+#  equivalent to twitter@user.
+#default_platform: email
+
+# Linkers configuration
+# Each linker defines how to format and link a specific platform or service.
+# The badge will display an icon showing what the link is for.
+# - ### Values
+#   - format and domain values will replace ^u with the username, and ^d with the domain.
+#   - format is what is displayed to the user
+#   - link is the URL that the user will be directed to when clicking the link
+#   - badge is a textual icon that indicates what platform is being linked to
+#   - domain is the default domain, explained in # Domains
+# - ### Domains
+#   - If a domain is supplied by the user, the format_domain will be attempted
+#     and if it doesn't exist, the regular format will be used.
+#     - The same applies to link and link_domain.
+#   - If no domain is supplied, the format and link will apply the default
+#     domain, which is defined in the linkers.
+#     - When no domain is supplied by the user, the format and link are used 
+#       by default and if not found, the format_domain and link_domain
+#       will be used instead.
+#  - When writing linkers, it is recommended to use the NerdFont 'md' icons
+#    for the badge.
+#  - If instead of parameters, you provide the name of another linker,
+#    the string linker will become an alias to the other linker.
+linkers:
+  github:
+    badge: "\U000f02a4" # nf-md-github
+    format: "^u"
+    link: "https://github.com/^u"
+  w: wafrn
+  wafrn:
+    badge: "w"
+    format: "@^u"
+    format_domain: "@^u@^d"
+    link: "https://w.linuxposting.xyz/blog/^u"
+    link_domain: "https://w.linuxposting.xyz/blog/@^u@^d"
+  fedi: mainwafrn
+  mainwafrn: # For less clunky main wafrn links
+    badge: "w"
+    format: "@^u"
+    format_domain: "@^u@^d"
+    link: "https://app.wafrn.net/blog/^u"
+    link_domain: "https://app.wafrn.net/blog/@^u@^d"
+  matrix:
+    badge: "[M]"
+    domain: "linuxposting.xyz" # default domain is local
+    # format: "@^u"
+    format_domain: "@^u:^d"
+    link_domain: "https://matrix.to/#/@^u:^d"
+  mroom: # matrix room
+    badge: "[M]"
+    domain: "linuxposting.xyz"
+    format_domain: "#^u:^d"
+    link_domain: "https://matrix.to/#/#^u:^d"
+  mail: email
+  email:
+    badge: "\U000f01ee" # nf-md-email
+    domain: "linuxposting.xyz"
+    format: "^u@^d"
+    link: "mailto:^u@^d"
+  t: tumblr
+  tumblr:
+    badge: "\uf173" # nf-fa-tumblr
+    format: "@^u"
+    link: "https://tumblr.com/^u"
+  x: twitter # alias x to use twitter
+  twitter:
+    badge: "\U000f0544" # nf-md-twitter
+    format: "@^u"
+    link: "https://twitter.com/^u"
+  twitch:
+    badge: "\U000f0543" # nf-md-twitch
+    format: "@^u"
+    link: "https://twitch.tv/^u"
+  yt: youtube
+  youtube:
+    badge: "\U000f05c3" # nf-md-youtube
+    format: "^u"
+    link: "https://youtube.com/@^u"
+  reddit:
+    badge: "\U000f044d" # nf-md-reddit
+    format: "u/^u"
+    link: "https://reddit.com/u/^u"
