@@ -18,239 +18,25 @@ Finally, to speed up your system by 200%, just run the following command: "sudo 
 
 # The guide to Linux on Tumblr!
 
-### Linux
+{% assign list = site.data.blogs %}
 
-- @linux-real (Just Linux)
+{% for group in list %}
 
-### The Distro Blogs
+### {{group[0]}}
 
-- @alpine-official (UwU bc smol)
-- @android-official
-  - @androidtv-official
-- @arch-official
-- used by @arch-user
-- @artix-linux-official (Constantly says they're better than arch, while mainly replacing only the init)
-- @centos-official
-- @chromeos-official (Your school says hi)
-- @debian-official
-  - @debian-sid
-- @devuan-official (Artix but with Debian instead of arch)
-- @endeavouros-official
-- @fedora-official (Linux with a hat)
-- @garuda-official
-- @gentoo-official (tougher arch)
-  - @evil-gentoo
-- @hannah-montana-linux-official
-- @kali-official ("I'm a gamer")
-- @layover-linux-official
-- @lfs-official (the hardest distro challenge)
-- @linuxmint-official (Linux for people with a life)
-  - @mint-offical (someone didn't read the list)
-- @manjaro-official (Arch with less steps)
-- @microos-official (Smol suse?)
-- @nixos-official (thinks that your config should be a special snowflake of a file)
-- @openmediavault-official (Your Files)
-- @opensuse-official (Happy lil gecko)
-- @parrotos-official
-- @pinkos-official
-- @pisslinux-official (tell me this isnt a real distro pls)
-- @popos-official (Mint again? Oh, it has more updates.)
-- @porteusofficial (Portable, crazy, son of slackware)
-- @puppylinux-official (Awww, puppy!)
-  - @puppylinux-unofficial
-  - @puppy-linux-official (est. 2024-09-25)
-- @q4os-tde-official
-  - @q4os-kde-official
-- @qubesos-official
-- @raspbian-official
-- @redstar-official (control of information meets linux) (hard mode)
-- @retropieos-official (Raspbian's sister... I think?)
-- @rhel-official (a murderer and sellout)
-- @rocky-linux-official (Rhel, without the bad parts)
-- @slackware-official (Slack? Where?!)
-- @solus-official (est. 2025-03-19)
-- @steamos3-offical (me, I help with gaming)
-- @tailsos-official (Fits in any bag like a puppy and will assist you with hiding from the fbi)
-- @tophatlinux-official (the best hat-based distro)
-- @ubuntu-official (thinks GNOME is good for some reason)
-  - @ubuntucinnamon-official (est. 2025-05-31)
-- @uwuntu-official (Ubuntu.... and the rest is in the name)
-- @vanillaos-official
-- @void-linux-official (Honestly, I don't even know.)
-  - @void-linux-musl (great, now I'm more confused)
-- @wubuntu-officially-unofficial
-- @yiffos-official
-- @zorin-os-official (the only distro that starts with Z)
+{% for blog in group[1] %}
 
-### The Software Blogs
+{{ blog | blog_md }}
 
-Remind me to sort these later.
+{% for subblog in blog.sub_blogs %}
 
-- @alacritty-official (est. 2025-05-27)
-- @ansible-but-not-official (IT management tool) (I think?)
-- @apt-official (est. 2025-03-29)
-- @arcbrowser-offical
-- @btrfs-unofficial
-- @cool-retro-term-official (Terminal Emulator)
-- @cups-official
-- @definitely-zen-browser (Privacy-focused web browser built on Firefox)
-- @docker-official (containerization)
-- @ed-official
-- @emacs-official (the ultimate editor)
-  - @emacs-evil-mode
-- @mozilla-firefox
-- @ffmpegofficial (everyone makes a 🫃 joke for some reason)
-- @fish-shell (Shell with built-in autocomplete but non POSIX)
-- @flat-assembler
-- @flatpak-official
-- @floorp-official
-- @gcc-official
-- @git-official
-- @gnome-de-official
-  - @gnome-terminal-official
-  - @gnome-2048-official (est. 2025-05-16)
-- @gnu-imp-official (The GNU Image Manipulation Program)
-- @gnu-nano-official (Text for the weak)
-- @grep-official
-- @helix-editor (vim but backwards)
-- @icecat-official (firefox fork)
-- @inkscape-official (est. 2024-04-02)
-- @kde-official | Creator of everything beginning with 'K'...
-  - @krita-unofficial
-- @kitty-terminal-official (est. 2025-02-08)
-  - @kitty-official
-- @kubernetes-official (Docker's friend and Kate's hideout)
-- @learn-coq-official
-- @librewolf-unofficial
-- @lunati-official (NOT Minecraft)
-- @neofetch-offical
-- @nautilus-official
-- @networkmanager-official
-- @packagemanager-offical
-- @podman-official
-- @powershell-official
-- @qemu-official
-- @regexkind (doesn't post about linux much, but I'm putting it here until we get regex-official)
-- @river-official
-- @steamvr-official (est. 2025-04-25)
-- @systemd-official (the startup daemon)
-  - @systemdeez (arguably systemd)
-- @neovim-official (your favorite text editor)
-- @sed-official (`s/[RrLl]/w/g`)
-- @truenas-official
-- @vi-official
-- @vim-official
-- @vlc-official
-- @vorapis-v3-official (youtube frontend?)
-- @vulkan-official (performance is a must)
-- @wayland-official
-- @winehq-official
-- @x11-official
-- @xorg-official
+  {{ subblog | blog_md }}
 
-#### DE/WM Blogs
-- @budgie-desktop (est. 2025-01-05)
-- @cinnamon-official
-- @cosmic-official (New Wayland Compositor)
-- @dwm-official (formerly @blackarch-official)
-- @hyprland-official (Wayland Compositor)
-- @i3-official (Window Manager)
-- @kde-plasma-official (best DE/Compositor)
-- @mutter-official
-- @niri-official (est. 2025-03-14)
-- @sway-official (the tree blows in wayland to i3)
-- @wayfire-official (~~skirt~~ window go spinny)
-- @xfce-official
-- @xfwm-official
-- @xmonad-official
+{% endfor %}
 
-### Programming Languages
+{% endfor %}
 
-- @assembly-official
-- @batch-official
-- @brainfuck-official
-- @c-official
-- @cplusplus-official
-- @csharp-official
-- @css-official §
-- @gdscript-official
-- @haskell-official
-- @java-official
-- @javascript-official
-  - @official-js
-- @malbolge-official
-- @metagolfscript-official
-- @nios2-asm (I don't know if this belongs here, but whatever)
-- @perl-official
-- @powershell-official
-- @puredata-official
-- @python-official
-- @riskv-official
-- @rust-official
-  - @rustup-official
-- @vala-official
-- @verilog-official
-- @vhdl-official
-
-### Other*
-
-#### themes
-
-- @catppuccin-frappe-official (est. 2025-03-25)
-- @catppuccin-latte-official
-- @catppuccin-macchiato-official
-- @catppuccin-mocha-official
-- @gruvbox-official
-
-#### mascots
-
-- @tux-official (See also: Gentoo Penguin)
-- @xenia-the-fox (The true mascot)
-
-#### idk
-
-- @distrochooser (Which distro should I pick?)
-- @i-suggest-linux (better than most i-suggest blogs)
-- @linux-opinions (est. 2025-05-22)
-
-### Computers/Hardware
-
-- @framework-official (The apple of Linux laptops, except repairable)
-- @gpu-official (your GPU)
-  - @spirv-official (formerly @glsl-official)
-- @lenovo-real (Makes people happy with think pads)
-- @rackmount-official-my-ass
-- @ram-stick (inactive I think)
-  - @zram-official (technically software but I think it should be here)
-- @vax-official
-
-### Non Linux Blogs
-
-- @freebsd-official
-- @haiku-official
-- @iglunix-official § (affiliated with the project, too!)
-- @minix-official
-- @netbsd-official (the toaster is alive!)
-- @openbsd-official (est. 2025-02-17)
-- @sunos-official (est. 2024-10-16)
-- @tigerbrew-official (you choose what macos software you get)
-- @windowsxp-official
-- @windows-7-official (The last good version of windows)
-- @windows10-official
-- @windows11-official
-- @xnu-official
-- @zipp-os-official (another "better os" project)
-- @zos-official (est. 2025-07-24)
-
-### Non Official Blogs†
-
-- @forever-stuck-on-java-8
-- @greekie-via-linux
-- @mipseb
-- @monaddecepticon (does a cool rice review thing)
-- @the-mynah-bird
-- @the-pink-hacker
-- @robynthelinuxuser
+{% endfor %}
 
 ### Open Blog Opportunities
 
