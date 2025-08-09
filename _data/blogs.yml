@@ -1,0 +1,523 @@
+The Distro Blogs:
+  - accounts:
+    - tumblr@alpine-official
+    comment: UwU bc smol
+  - accounts:
+    - tumblr@android-official
+    sub_blogs:
+      - accounts:
+        - tumblr@androidtv-official
+  - accounts:
+    - tumblr@arch-official
+  - accounts:
+    - tumblr@arch-user
+    prefix: used by
+  - accounts:
+    - tumblr@artix-linux-official
+    comment: Constantly says they're better than arch, while mainly replacing only the init
+  - accounts:
+    - tumblr@centos-official
+  - accounts:
+    - tumblr@chromeos-official
+    comment: Your school says hi
+  - accounts:
+    - tumblr@debian-official
+    sub_blogs:
+      - accounts:
+        - tumblr@debian-sid
+  - accounts:
+    - tumblr@devuan-official
+    comment: Artix but with Debian instead of arch
+  - accounts:
+    - tumblr@endeavouros-official
+  - accounts:
+    - tumblr@fedora-official
+    comment: Linux with a hat
+  - accounts:
+    - tumblr@garuda-official
+  - accounts:
+    - tumblr@gentoo-official
+    comment: tougher arch
+    sub_blogs:
+      - accounts:
+        - tumblr@evil-gentoo
+  - accounts:
+    - tumblr@hannah-montana-linux-official
+  - accounts:
+    - tumblr@kali-official
+    comment: "I'm a gamer"
+  - accounts:
+    - tumblr@layover-linux-official
+  - accounts:
+    - tumblr@lfs-official
+    comment: the hardest distro challenge
+  - accounts:
+    - tumblr@linuxmint-official
+    comment: Linux for people with a life
+    sub_blogs:
+      - accounts:
+        - tumblr@mint-offical
+        comment: someone didn't read the list
+  - accounts:
+    - tumblr@manjaro-official
+    comment: Arch with less steps
+  - accounts:
+    - tumblr@microos-official
+    comment: Smol suse?
+  - accounts:
+    - tumblr@nixos-official
+    comment: thinks that your config should be a special snowflake of a file
+  - accounts:
+    - tumblr@openmediavault-official
+    comment: Your Files
+  - accounts:
+    - tumblr@opensuse-official
+    comment: Happy lil gecko
+  - accounts:
+    - tumblr@parrotos-official
+  - accounts:
+    - tumblr@pinkos-official
+  - accounts:
+    - tumblr@pisslinux-official
+    comment: tell me this isnt a real distro pls
+  - accounts:
+    - tumblr@popos-official
+    comment: Mint again? Oh, it has more updates.
+  - accounts:
+    - tumblr@porteusofficial
+    comment: Portable, crazy, son of slackware
+  - accounts:
+    - tumblr@puppylinux-official
+    comment: Awww, puppy!
+    sub_blogs:
+      - accounts:
+        - tumblr@puppylinux-unofficial
+      - accounts:
+        - tumblr@puppy-linux-official
+        comment: est. 2024-09-25
+  - accounts:
+    - tumblr@q4os-tde-official
+    - wafrn@q4os-official
+    sub_blogs:
+      - accounts:
+        - tumblr@q4os-kde-official
+  - accounts:
+    - tumblr@qubesos-official
+  - accounts:
+    - tumblr@raspbian-official
+  - accounts:
+    - tumblr@redstar-official
+    comment: control of information meets linux [hard mode]
+  - accounts:
+    - tumblr@retropieos-official
+    comment: Raspbian's sister... I think?
+  - accounts:
+    - tumblr@rhel-official
+    comment: a murderer and sellout
+  - accounts:
+    - tumblr@rocky-linux-official
+    comment: Rhel, without the bad parts
+  - accounts:
+    - tumblr@slackware-official
+    comment: Slack? Where?!
+  - accounts:
+    - tumblr@solus-official
+    comment: est. 2025-03-19
+  - accounts:
+    - tumblr@steamos3-offical@tumblr.com
+    - wafrn@steamos
+    comment: me, I help with gaming
+  - accounts:
+    - tumblr@tailsos-official
+    comment: Fits in any bag like a puppy and will assist you with hiding from the fbi
+  - accounts:
+    - tumblr@tophatlinux-official
+    comment: the best hat-based distro
+  - accounts:
+    - tumblr@ubuntu-official
+    comment: thinks GNOME is good for some reason
+    sub_blogs:
+      - accounts:
+        - tumblr@ubuntucinnamon-official
+        comment: est. 2025-05-31
+  - accounts:
+    - tumblr@uwuntu-official
+    comment: Ubuntu.... and the rest is in the name
+  - accounts:
+    - tumblr@vanillaos-official
+  - accounts:
+    - tumblr@void-linux-official
+    comment: Honestly, I don't even know.
+    sub_blogs:
+      - accounts:
+        - tumblr@void-linux-musl
+        comment: great, now I'm more confused
+  - accounts:
+    - tumblr@wubuntu-officially-unofficial
+  - accounts:
+    - tumblr@yiffos-official
+  - accounts:
+    - tumblr@zorin-os-official
+    comment: the only distro that starts with Z
+The Software Blogs:
+  - accounts:
+    - tumblr@alacritty-official
+    comment: est. 2025-05-27
+  - accounts:
+    - tumblr@ansible-but-not-official (IT management tool)
+    comment: I think?
+  - accounts:
+    - tumblr@apt-official
+    comment: est. 2025-03-29
+  - accounts:
+    - tumblr@arcbrowser-offical
+  - accounts:
+    - tumblr@btrfs-unofficial
+    - wafrn@btrfs-unofficial
+  - accounts:
+    - tumblr@cool-retro-term-official
+    comment: Terminal Emulator
+  - accounts:
+    - tumblr@cups-official
+  - accounts:
+    - tumblr@definitely-zen-browser
+    comment: Privacy-focused web browser built on Firefox
+  - accounts:
+    - tumblr@docker-official
+    comment: containerization
+  - accounts:
+    - tumblr@ed-official
+  - accounts:
+    - tumblr@emacs-official
+    comment: the ultimate editor
+    sub_blogs:
+      - accounts:
+        - tumblr@emacs-evil-mode
+  - accounts:
+    - tumblr@mozilla-firefox
+  - accounts:
+    - tumblr@ffmpegofficial
+    comment: everyone makes a 🫃 joke for some reason
+  - accounts:
+    - tumblr@fish-shell
+    comment: Shell with built-in autocomplete but non POSIX
+  - accounts:
+    - tumblr@flat-assembler
+  - accounts:
+    - tumblr@flatpak-official
+  - accounts:
+    - tumblr@floorp-official
+  - accounts:
+    - tumblr@gcc-official
+  - accounts:
+    - tumblr@git-official
+  - accounts:
+    - tumblr@gnome-de-official
+    sub_blogs:
+      - accounts:
+        - tumblr@gnome-terminal-official
+      - accounts:
+        - tumblr@gnome-2048-official
+        comment: est. 2025-05-16
+  - accounts:
+    - tumblr@gnu-imp-official
+    comment: The GNU Image Manipulation Program
+  - accounts:
+    - tumblr@gnu-nano-official
+    comment: Text for the weak
+  - accounts:
+    - tumblr@grep-official
+  - accounts:
+    - tumblr@helix-editor
+    comment: vim but backwards
+  - accounts:
+    - tumblr@icecat-official
+    comment: firefox fork
+  - accounts:
+    - tumblr@inkscape-official
+    comment: est. 2024-04-02
+  - accounts:
+    - tumblr@kde-official | Creator of everything beginning with 'K'...
+    sub_blogs:
+      - accounts:
+        - tumblr@krita-unofficial
+  - accounts:
+    - tumblr@kitty-terminal-official
+    comment: est. 2025-02-08
+    sub_blogs:
+      - accounts:
+        - tumblr@kitty-official
+  - accounts:
+    - tumblr@kubernetes-official
+    comment: Docker's friend and Kate's hideout
+  - accounts:
+    - tumblr@learn-coq-official
+  - accounts:
+    - tumblr@librewolf-unofficial
+  - accounts:
+    - tumblr@lunati-official
+    comment: NOT Minecraft
+  - accounts:
+    - tumblr@neofetch-offical
+  - accounts:
+    - tumblr@nautilus-official
+  - accounts:
+    - tumblr@networkmanager-official
+  - accounts:
+    - tumblr@packagemanager-offical
+  - accounts:
+    - tumblr@podman-official
+  - accounts:
+    - tumblr@powershell-official
+  - accounts:
+    - tumblr@qemu-official
+  - accounts:
+    - tumblr@regexkind
+    comment: doesn't post about linux much, but I'm putting it here until we get regex-official
+  - accounts:
+    - tumblr@river-official
+  - accounts:
+    - tumblr@steamvr-official
+    comment: est. 2025-04-25
+  - accounts:
+    - tumblr@systemd-official
+    comment: the startup daemon
+    sub_blogs:
+      - accounts:
+        - tumblr@systemdeez
+        comment: arguably systemd
+  - accounts:
+    - tumblr@neovim-official
+    comment: your favorite text editor
+  - accounts:
+    - tumblr@sed-official
+    comment: "`s/[RrLl]/w/g`"
+  - accounts:
+    - tumblr@truenas-official
+  - accounts:
+    - tumblr@vi-official
+    - wafrn@vi-official
+  - accounts:
+    - tumblr@vim-official
+  - accounts:
+    - tumblr@vlc-official
+  - accounts:
+    - tumblr@vorapis-v3-official
+    comment: youtube frontend?
+  - accounts:
+    - tumblr@vulkan-official
+    comment: performance is a must
+  - accounts:
+    - tumblr@wayland-official
+  - accounts:
+    - tumblr@winehq-official
+  - accounts:
+    - tumblr@x11-official
+  - accounts:
+    - tumblr@xorg-official
+DE/WM Blogs:
+  - accounts:
+    - tumblr@budgie-desktop
+    comment: est. 2025-01-05
+  - accounts:
+    - tumblr@cinnamon-official
+  - accounts:
+    - tumblr@cosmic-official
+    comment: New Wayland Compositor
+  - accounts:
+    - tumblr@dwm-official
+    comment: formerly @blackarch-official
+  - accounts:
+    - tumblr@hyprland-official
+    comment: Wayland Compositor
+  - accounts:
+    - tumblr@i3-official
+    comment: Window Manager
+  - accounts:
+    - tumblr@kde-plasma-official
+    - wafrn@kde-plasma-official
+    comment: best DE/Compositor
+  - accounts:
+    - tumblr@mutter-official
+  - accounts:
+    - tumblr@niri-official
+    comment: est. 2025-03-14
+  - accounts:
+    - tumblr@sway-official
+    comment: the tree blows in wayland to i3
+  - accounts:
+    - tumblr@wayfire-official
+    comment: ~~skirt~~ window go spinny
+  - accounts:
+    - tumblr@xfce-official
+  - accounts:
+    - tumblr@xfwm-official
+  - accounts:
+    - tumblr@xmonad-official
+Programming Languages:
+  - accounts:
+    - tumblr@assembly-official
+  - accounts:
+    - tumblr@batch-official
+  - accounts:
+    - tumblr@brainfuck-official
+  - accounts:
+    - tumblr@c-official
+  - accounts:
+    - tumblr@cplusplus-official
+  - accounts:
+    - tumblr@csharp-official
+  - accounts:
+    - tumblr@css-official §
+  - accounts:
+    - tumblr@gdscript-official
+  - accounts:
+    - tumblr@haskell-official
+  - accounts:
+    - tumblr@java-official
+  - accounts:
+    - tumblr@javascript-official
+    sub_blogs:
+      - accounts:
+        - tumblr@official-js
+  - accounts:
+    - tumblr@malbolge-official
+  - accounts:
+    - tumblr@metagolfscript-official
+  - accounts:
+    - tumblr@nios2-asm
+    comment: I don't know if this belongs here, but whatever
+  - accounts:
+    - tumblr@perl-official
+  - accounts:
+    - tumblr@powershell-official
+  - accounts:
+    - tumblr@puredata-official
+  - accounts:
+    - tumblr@python-official
+  - accounts:
+    - tumblr@riskv-official
+  - accounts:
+    - tumblr@rust-official
+    sub_blogs:
+      - accounts:
+        - tumblr@rustup-official
+  - accounts:
+    - tumblr@vala-official
+  - accounts:
+    - tumblr@verilog-official
+  - accounts:
+    - tumblr@vhdl-official
+Other*:
+themes:
+  - accounts:
+    - tumblr@catppuccin-frappe-official
+    comment: est. 2025-03-25
+  - accounts:
+    - tumblr@catppuccin-latte-official
+  - accounts:
+    - tumblr@catppuccin-macchiato-official
+    - wafrn@Astreaprtcl
+  - accounts:
+    - tumblr@catppuccin-mocha-official
+  - accounts:
+    - tumblr@gruvbox-official
+mascots:
+  - accounts:
+    - tumblr@tux-official
+    comment: "See also: Gentoo Penguin"
+  - accounts:
+    - tumblr@xenia-the-fox
+    comment: The true mascot
+idk:
+  - accounts:
+    - tumblr@distrochooser
+    comment: Which distro should I pick?
+  - accounts:
+    - tumblr@i-suggest-linux
+    comment: better than most i-suggest blogs
+  - accounts:
+    - tumblr@linux-opinions
+    comment: est. 2025-05-22
+Computers/Hardware:
+  - accounts:
+    - tumblr@framework-official
+    comment: The apple of Linux laptops, except repairable
+  - accounts:
+    - tumblr@gpu-official
+    comment: your GPU
+    sub_blogs:
+      - accounts:
+        - tumblr@spirv-official
+        comment: formerly @glsl-official
+  - accounts:
+    - tumblr@lenovo-real
+    comment: Makes people happy with think pads
+  - accounts:
+    - tumblr@rackmount-official-my-ass
+  - accounts:
+    - tumblr@ram-stick
+    comment: inactive I think
+    sub_blogs:
+      - accounts:
+        - tumblr@zram-official
+        comment: technically software but I think it should be here
+  - accounts:
+    - tumblr@vax-official
+Non Linux Blogs:
+  - accounts:
+    - tumblr@freebsd-official
+  - accounts:
+    - tumblr@haiku-official
+  - accounts:
+    - tumblr@iglunix-official §
+    comment: affiliated with the project, too!
+  - accounts:
+    - tumblr@minix-official
+  - accounts:
+    - tumblr@netbsd-official
+    comment: the toaster is alive!
+  - accounts:
+    - tumblr@openbsd-official
+    comment: est. 2025-02-17
+  - accounts:
+    - tumblr@sunos-official
+    - wafrn@sunos-official
+    comment: est. 2024-10-16
+  - accounts:
+    - tumblr@tigerbrew-official
+    comment: you choose what macos software you get
+  - accounts:
+    - tumblr@windowsxp-official
+  - accounts:
+    - tumblr@windows-7-official
+    - wafrn@cynderace
+    comment: The last good version of windows
+  - accounts:
+    - tumblr@windows10-official
+  - accounts:
+    - tumblr@windows11-official
+  - accounts:
+    - tumblr@xnu-official
+  - accounts:
+    - tumblr@zipp-os-official
+    comment: another "better os" project
+  - accounts:
+    - tumblr@zos-official
+    comment: est. 2025-07-24
+Non Official Blogs†:
+  - accounts:
+    - tumblr@forever-stuck-on-java-8
+  - accounts:
+    - tumblr@greekie-via-linux
+  - accounts:
+    - tumblr@mipseb
+  - accounts:
+    - tumblr@monaddecepticon
+    comment: does a cool rice review thing
+  - accounts:
+    - tumblr@the-mynah-bird
+  - accounts:
+    - tumblr@the-pink-hacker
+  - accounts:
+    - tumblr@robynthelinuxuser
