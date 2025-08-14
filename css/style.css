@@ -1,5 +1,11 @@
+@font-face {
+  font-family: 'SymbolsNerdFont';
+  src: url('/other/SymbolsNerdFont-Regular.ttf');
+  src: url('/other/SymbolsNerdFontMono-Regular.ttf');
+}
+
 body {
-  font-family: monospace;
+  font-family: monospace, SymbolsNerdFont;
   background-color: #000;
   color: #fff;
 }
